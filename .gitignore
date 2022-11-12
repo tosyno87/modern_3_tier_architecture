@@ -10,3 +10,4 @@
 
 # SSH Keys
 *.pem
+*.cer
